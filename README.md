@@ -2,18 +2,18 @@
      HEADER / CABECERA
      ========================================================================= -->
 
-<h1 align="center">👋 ¡Hola! Soy Emmanuel Figueroa </h1>
+<h1 align="center">👋 ¡Hola! Soy Emmanuel Figueroa</h1>
 
 <p align="center">
-  <em>Estudiante de Economía en el Tecnológico de Monterrey, Campus CCM </em><br>
+  <em>Estudiante de Economía en el Tecnológico de Monterrey, Campus CCM 🇲🇽</em><br>
   <em>Finanzas Cuantitativas · Análisis de Datos · Investigación Aplicada</em>
 </p>
 
 <p align="center">
-  <a href="mailto:[emmafig2772@gmail.com]">
+  <a href="mailto:emmafig2772@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[https://www.credly.com/users/emmanuel-figueroa.474e389b]">
+  <a href="https://www.credly.com/users/emmanuel-figueroa.474e389b/badges/credly">
     <img src="https://img.shields.io/badge/AMIB-Serie%20210-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="AMIB Serie 210">
   </a>
   <a href="#">
@@ -27,13 +27,22 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Insignia AMIB Serie 210 desde Credly -->
+  <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+         alt="AMIB Serie 210 - Asesor en Inversiones" 
+         width="120" height="120">
+  </a>
+</p>
+
 ---
 
 <!-- =========================================================================
      ABOUT ME / SOBRE MÍ — BILINGÜE
      ========================================================================= -->
 
-## (ESPAÑOL) Sobre mí
+## 🇲🇽 Sobre mí
 
 Soy estudiante de Economía en el **Tecnológico de Monterrey**, con un profundo interés en:
 
@@ -48,7 +57,7 @@ Me caracterizo por una actitud **crítica, curiosa y disciplinada**, siempre ori
 
 ---
 
-## (ENGLISH) About Me
+## 🇺🇸 About Me
 
 I am an Economics student at **Tecnológico de Monterrey**, with a strong interest in:
 
@@ -67,23 +76,21 @@ I am characterized by a **critical, curious, and disciplined** mindset — alway
      RESEARCH INTERESTS / INTERESES DE INVESTIGACIÓN
      ========================================================================= -->
 
-## (ESPAÑOL) Intereses de investigación
+## 🇲🇽 Intereses de investigación
 
 Mi trabajo se sitúa en la intersección entre la **teoría económica** y el **análisis cuantitativo**. Actualmente estoy desarrollando investigación en:
 
-- **Estructura de mercados financieros:** aplicando el modelo de Duffie, Gârleanu y Pedersen (2005) sobre mercados centralizados vs. descentralizados para explicar por qué el mercado OTC en México es mayor que MexDer.
-- **Teoría de la deuda:** explorando el marco de deuda sensible e insensible a la información de Gorton (2008) para entender la fragmentación del mercado de renta fija.
+- **Estructura de mercados financieros:** aplicando y relacionando el modelo de Duffie, Gârleanu y Pedersen (2005) sobre mercados centralizados vs. descentralizados con la explicación de Gorton (2009) sobre la existencia de dueda sensible e insensible a la información para explicar por qué el mercado OTC en México es mayor que MexDer explorar el deterioro de este último.
 - **Análisis de riesgos financieros:** utilizando modelos GARCH para la gestión de portafolios.
 - **Economía del deporte:** aplicando métricas financieras (Sharpe, Sortino, Coherencia) al análisis de la NFL.
 
 ---
 
-## (ENGLISH) Research Interests
+## 🇺🇸 Research Interests
 
 My work sits at the intersection of **economic theory** and **quantitative analysis**. I am currently developing research in:
 
-- **Market structure:** applying the Duffie, Gârleanu, and Pedersen (2005) model of centralized vs. decentralized markets to explain why the Mexican OTC market is larger than MexDer.
-- **Debt theory:** exploring Gorton's (2008) framework of information-sensitive and insensitive debt to understand fixed-income market fragmentation.
+- **Market structure:** by applying and linking the model developed by Duffie, Gârleanu and Pedersen (2005) on centralised versus decentralised markets with Gorton’s (2009) explanation of the existence of information-sensitive and information-insensitive debt, in order to explain why the OTC market in Mexico is larger than MexDer and to explore the decline of the latter.
 - **Financial risk analysis:** using GARCH models for portfolio management.
 - **Sports economics:** applying financial metrics (Sharpe, Sortino, Coherence) to NFL analysis.
 
@@ -95,7 +102,7 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ## 🎓 Formación académica / Academic Background
 
-| ESPAÑOL | ENGLISH |
+| 🇲🇽 | 🇺🇸 |
 |-----|-----|
 | **Licenciatura en Economía** (en curso) | **B.A. in Economics** (in progress) |
 | *Tecnológico de Monterrey* | *Tecnológico de Monterrey* |
@@ -108,14 +115,20 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ## 🏅 Certificaciones / Certifications
 
-| Certificación | Institución | Estado |
-|---------------|-------------|--------|
-| **Serie 210 — Asesor en Inversiones** | AMIB | ✅ Activa |
-| **GitHub Student Developer Pack** | GitHub | ✅ Activo |
+| Certificación | Institución | Estado | Verificación |
+|---------------|-------------|--------|--------------|
+| **Serie 210 — Asesor en Inversiones** | AMIB | ✅ Activa | [Ver en Credly](https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url) |
+| **GitHub Student Developer Pack** | GitHub | ✅ Activo | — |
 
-> [!NOTE]
-> Mi insignia de la Serie 210 está verificable en mi perfil de Credly.  
-> *My Serie 210 badge is verifiable on my Credly profile.*
+<p align="center">
+  <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+         alt="AMIB Serie 210" 
+         width="150" height="150">
+  </a>
+  <br>
+  <em>Haz clic en la insignia para verificarla / Click the badge to verify it</em>
+</p>
 
 ---
 
@@ -148,9 +161,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 1️⃣ GARCH + Markowitz — Optimización de portafolios con volatilidad condicional
 
-> 🇪🇸 Modelado de volatilidad con GARCH(1,1) y optimización de portafolios (MinVar, MaxSharpe, MaxSortino, MaxRetorno) para CENIT CAPITAL. Incluye rolling backtesting y matriz de covarianza ajustada por GARCH.
+> 🇲🇽 Modelado de volatilidad con GARCH(1,1) y optimización de portafolios (MinVar, MaxSharpe, MaxSortino, MaxRetorno) para CENIT CAPITAL. Incluye rolling backtesting y matriz de covarianza ajustada por GARCH.
 >
-> 🇬🇧 Volatility modeling with GARCH(1,1) and portfolio optimization (MinVar, MaxSharpe, MaxSortino, MaxRet) for CENIT CAPITAL. Includes rolling backtesting and GARCH-adjusted covariance matrix.
+> 🇺🇸 Volatility modeling with GARCH(1,1) and portfolio optimization (MinVar, MaxSharpe, MaxSortino, MaxRet) for CENIT CAPITAL. Includes rolling backtesting and GARCH-adjusted covariance matrix.
 
 | | |
 |---|---|
@@ -163,9 +176,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 2️⃣ Monitoreo Diario de Portafolio
 
-> 🇪🇸 Dashboard de monitoreo diario para CENIT CAPITAL. Incluye VaR/CVaR histórico, análisis de volatilidad GARCH, drawdown, beta rolling, semáforo de rotación, y forecast de volatilidad.
+> 🇲🇽 Dashboard de monitoreo diario para CENIT CAPITAL. Incluye VaR/CVaR histórico, análisis de volatilidad GARCH, drawdown, beta rolling, semáforo de rotación, y forecast de volatilidad.
 >
-> 🇬🇧 Daily portfolio monitoring dashboard for CENIT CAPITAL. Includes historical VaR/CVaR, GARCH volatility analysis, drawdown, rolling beta, rotation signal, and volatility forecast.
+> 🇺🇸 Daily portfolio monitoring dashboard for CENIT CAPITAL. Includes historical VaR/CVaR, GARCH volatility analysis, drawdown, rolling beta, rotation signal, and volatility forecast.
 
 | | |
 |---|---|
@@ -178,9 +191,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 3️⃣ Factor Alpha Module — Discovery de factores y optimización alpha-tilted
 
-> 🇪🇸 Módulo de descubrimiento de factores (Momentum, Value, Quality, Growth, Commodity Sensitivity, Risk-Adjusted) con scoring por sector y optimización alpha-tilted. Incluye Black-Litterman simplificado y backtesting de factores.
+> 🇲🇽 Módulo de descubrimiento de factores (Momentum, Value, Quality, Growth, Commodity Sensitivity, Risk-Adjusted) con scoring por sector y optimización alpha-tilted. Incluye Black-Litterman simplificado y backtesting de factores.
 >
-> 🇬🇧 Factor discovery module (Momentum, Value, Quality, Growth, Commodity Sensitivity, Risk-Adjusted) with sector-specific scoring and alpha-tilted optimization. Includes simplified Black-Litterman and factor backtesting.
+> 🇺🇸 Factor discovery module (Momentum, Value, Quality, Growth, Commodity Sensitivity, Risk-Adjusted) with sector-specific scoring and alpha-tilted optimization. Includes simplified Black-Litterman and factor backtesting.
 
 | | |
 |---|---|
@@ -193,9 +206,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 4️⃣ NFL Analysis — Métricas financieras aplicadas al fútbol americano
 
-> 🇪🇸 Aplicación de métricas financieras (Sharpe, Sortino, Coherencia) al análisis de la NFL 2025. Incluye análisis por equipo (ofensiva total, pase, carrera), desempeño de QBs bajo presión, y visualizaciones interactivas con Plotly.
+> 🇲🇽 Aplicación de métricas financieras (Sharpe, Sortino, Coherencia) al análisis de la NFL 2025. Incluye análisis por equipo (ofensiva total, pase, carrera), desempeño de QBs bajo presión, y visualizaciones interactivas con Plotly.
 >
-> 🇬🇧 Application of financial metrics (Sharpe, Sortino, Coherence) to NFL 2025 analysis. Includes team-level analysis (total offense, passing, rushing), QB performance under pressure, and interactive visualizations with Plotly.
+> 🇺🇸 Application of financial metrics (Sharpe, Sortino, Coherence) to NFL 2025 analysis. Includes team-level analysis (total offense, passing, rushing), QB performance under pressure, and interactive visualizations with Plotly.
 
 | | |
 |---|---|
@@ -208,9 +221,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 5️⃣ Modelo Multivariado — Determinantes del tipo de cambio USD/MXN
 
-> 🇪🇸 Modelo econométrico multivariado para explicar la variación semanal del tipo de cambio USD/MXN. Incluye diferencial de tasas, inflación relativa, precio del petróleo, reservas internacionales y datos de Google Trends.
+> 🇲🇽 Modelo econométrico multivariado para explicar la variación semanal del tipo de cambio USD/MXN. Incluye diferencial de tasas, inflación relativa, precio del petróleo, reservas internacionales y datos de Google Trends.
 >
-> 🇬🇧 Multivariate econometric model explaining weekly USD/MXN exchange rate variation. Includes interest rate spread, relative inflation, oil prices, international reserves, and Google Trends data.
+> 🇺🇸 Multivariate econometric model explaining weekly USD/MXN exchange rate variation. Includes interest rate spread, relative inflation, oil prices, international reserves, and Google Trends data.
 
 | | |
 |---|---|
@@ -255,8 +268,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ## 📫 ¿Cómo contactarme? / How to reach me?
 
-- 📧 Correo / Email: [emmafig2772@gmail.com](mailto:tu_correo@ejemplo.com)
-- 🏅 Credly: [https://www.credly.com/users/emmanuel-figueroa.474e389b/badges/credly](https://www.credly.com/users/emmanuel-figueroa.474e389b)
+- 📧 Correo / Email: [emmafig2772@gmail.com](mailto:emmafig2772@gmail.com)
+- 🏅 Credly: [credly.com/users/emmanuel-figueroa.474e389b](https://www.credly.com/users/emmanuel-figueroa.474e389b/badges/credly)
+- 🔗 Insignia AMIB: [Ver certificación](https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url)
 - 💼 LinkedIn: *Próximamente / Coming soon*
 
 ---
