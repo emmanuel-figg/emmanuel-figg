@@ -30,9 +30,9 @@
 <p align="center">
   <!-- Insignia AMIB Serie 210 desde Credly -->
   <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+    <img src="assets/asesor-en-estrategias-de-inversion-serie-210.1.png" 
          alt="AMIB Serie 210 - Asesor en Inversiones" 
-         width="120" height="120">
+         width="90" height="90">
   </a>
 </p>
 
@@ -122,9 +122,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 <p align="center">
   <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+    <img src="assets/asesor-en-estrategias-de-inversion-serie-210.1.png" 
          alt="AMIB Serie 210" 
-         width="150" height="150">
+         width="90" height="90">
   </a>
   <br>
   <em>Haz clic en la insignia para verificarla / Click the badge to verify it</em>
