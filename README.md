@@ -30,7 +30,7 @@
 <p align="center">
   <!-- Insignia AMIB Serie 210 desde Credly -->
   <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+    <img src="https://images.credly.com/size/340x340/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
          alt="AMIB Serie 210 - Asesor en Inversiones" 
          width="120" height="120">
   </a>
@@ -51,7 +51,7 @@ Soy estudiante de Economía en el **Tecnológico de Monterrey**, con un profundo
 - 🔬 **Investigación aplicada** — tanto teórica como empírica
 - 🧠 **Teoría económica** como marco para entender fenómenos financieros
 
-Me apasiona comprender los fenómenos económicos a través de **modelos y marcos analíticos rigurosos**, al mismo tiempo que cultivo un profundo interés por la **filosofía, la literatura, el cine, el arte y la música**.
+Me apasiona comprender los fenómenos económicos a través de **modelos y marcos analíticos rigurosos**, al mismo tiempo que cultivo un profundo interés por la **filosofía, la teología, la literatura, el cine, el arte y la música**.
 
 Me caracterizo por una actitud **crítica, curiosa y disciplinada**, siempre orientada a profundizar en las ideas, cuestionar supuestos y construir conocimiento desde una perspectiva tanto técnica como humanística.
 
@@ -66,7 +66,7 @@ I am an Economics student at **Tecnológico de Monterrey**, with a strong intere
 - 🔬 **Applied research** — both theoretical and empirical
 - 🧠 **Economic theory** as a framework for understanding financial phenomena
 
-I am passionate about understanding economic phenomena through **rigorous models and analytical frameworks**, while also cultivating a deep interest in **philosophy, literature, cinema, art, and music**.
+I am passionate about understanding economic phenomena through **rigorous models and analytical frameworks**, while also cultivating a deep interest in **philosophy, theology, literature, cinema, art, and music**.
 
 I am characterized by a **critical, curious, and disciplined** mindset — always seeking to deepen ideas, question assumptions, and build knowledge from both a technical and humanistic perspective.
 
@@ -122,7 +122,7 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 <p align="center">
   <a href="https://www.credly.com/badges/d3998083-3eea-47bb-85ef-15a50dd51dad/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
+    <img src="https://images.credly.com/size/340x340/images/d3998083-3eea-47bb-85ef-15a50dd51dad/image.png" 
          alt="AMIB Serie 210" 
          width="150" height="150">
   </a>
@@ -161,9 +161,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 1️⃣ GARCH + Markowitz — Optimización de portafolios con volatilidad condicional
 
-> 🇲🇽 Modelado de volatilidad con GARCH(1,1) y optimización de portafolios (MinVar, MaxSharpe, MaxSortino, MaxRetorno) para CENIT CAPITAL. Incluye rolling backtesting y matriz de covarianza ajustada por GARCH.
+> 🇲🇽 Modelado de volatilidad con GARCH(1,1) y optimización de portafolios (MinVar, MaxSharpe, MaxSortino, MaxRetorno) para CENIT CAPITAL (proyecto escolar). Incluye rolling backtesting y matriz de covarianza ajustada por GARCH.
 >
-> 🇺🇸 Volatility modeling with GARCH(1,1) and portfolio optimization (MinVar, MaxSharpe, MaxSortino, MaxRet) for CENIT CAPITAL. Includes rolling backtesting and GARCH-adjusted covariance matrix.
+> 🇺🇸 Volatility modeling with GARCH(1,1) and portfolio optimization (MinVar, MaxSharpe, MaxSortino, MaxRet) for CENIT CAPITAL (school project). Includes rolling backtesting and GARCH-adjusted covariance matrix.
 
 | | |
 |---|---|
@@ -176,9 +176,9 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 
 ### 2️⃣ Monitoreo Diario de Portafolio
 
-> 🇲🇽 Dashboard de monitoreo diario para CENIT CAPITAL. Incluye VaR/CVaR histórico, análisis de volatilidad GARCH, drawdown, beta rolling, semáforo de rotación, y forecast de volatilidad.
+> 🇲🇽 Dashboard de monitoreo diario para CENIT CAPITAL (proyecto escolar). Incluye VaR/CVaR histórico, análisis de volatilidad GARCH, drawdown, beta rolling, semáforo de rotación y forecast de volatilidad.
 >
-> 🇺🇸 Daily portfolio monitoring dashboard for CENIT CAPITAL. Includes historical VaR/CVaR, GARCH volatility analysis, drawdown, rolling beta, rotation signal, and volatility forecast.
+> 🇺🇸 Daily portfolio monitoring dashboard for CENIT CAPITAL (school project). Includes historical VaR/CVaR, GARCH volatility analysis, drawdown, rolling beta, asset rotation signals and volatility forecast.
 
 | | |
 |---|---|
@@ -243,7 +243,6 @@ My work sits at the intersection of **economic theory** and **quantitative analy
 | Título | Tema | Estado |
 |--------|------|--------|
 | **Mercados Centralizados vs. Descentralizados en México** | Aplicación del modelo de Duffie-Gârleanu-Pedersen (2005) para explicar la estructura del mercado OTC vs. MexDer | En desarrollo |
-| **Deuda Sensible e Insensible a la Información** | Exploración del marco de Gorton (2008) y su aplicación a la fragmentación del mercado de renta fija | En desarrollo |
 | **NFL Analytics: Sharpe, Sortino y Coherencia en el Fútbol Americano** | Aplicación de métricas financieras al análisis de la NFL 2025 | Borrador |
 | **Determinantes del Tipo de Cambio USD/MXN** | Modelo multivariado con variables macroeconómicas y Google Trends | Trabajo escolar |
 
